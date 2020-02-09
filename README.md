@@ -1,8 +1,7 @@
 # KerasClassifier
 Data Description: Given a Bank customer, can we build a classifier that can determine whether they will leave or not using Neural networks?
 
-The dataset contains 10,000 sample points with 14 distinct features such as CustomerId, CreditScore, Geography, Gender, Age, Tenure, Balance etc. Know your data: https://www.kaggle.com/barelydedicated/bank-
-customer-churn-modeling.
+The dataset contains 10,000 sample points with 14 distinct features such as CustomerId, CreditScore, Geography, Gender, Age, Tenure, Balance etc. Know your data: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling.
 
  
 Context:
